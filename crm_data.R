@@ -100,7 +100,8 @@ while(T){
 }
 
 
-#writing the files to the local database 
+#writing the files to the local database  
+#yes this is working absolutely fine
 write_xlsx(data.bizz,'bizz.data (1st jul to 30jul).xlsx')
 write_xlsx(data.games,'games.data (1st jul to 30jul).xlsx')
 
